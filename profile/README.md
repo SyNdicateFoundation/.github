@@ -1,4 +1,4 @@
-# 🚀 Xenon foundation
+# 🚀 SyNdicate foundation
 
 Welcome to the SyNdicate Foundation
 
