@@ -1,31 +1,12 @@
-# 🚀 SyNdicate foundation
-
-Welcome to the SyNdicate Foundation
-
-## 🌐 About Us
-
-At this foundation, we are passionate about both Opensource and ClosedSource Projects. Our diverse foundation brings together developers and enthusiasts from around the world, aiming to create impactful solutions and contribute to the tech landscape.
-
-## 🤝 Join Us
-
-- **Contributors Welcome**: Whether you're into Opensource or ClosedSource, we welcome contributors of all backgrounds and experience levels.
-
-- **Building Trust**: Trust is the key to success in our foundation. We invite anyone who earns our trust to join our development team.
-
-## 🌐 Our Values
-
-- **Ethical Development**: Our projects adhere to ethical standards, and we have zero tolerance for any actions that harm other communities.
-
-- **Helping Others**: One of the major values for us is helping each other. We believe that without helping, we will never reach the next levels.
-
-## 🚨 Reporting Issues
-- If you encounter any issues or have concerns about our foundation's impact, please reach out to us. We take all issues seriously and are committed to resolving them promptly.
-
-🌐 Stay Connected
-- Stay updated on our latest projects and foundation news. Join our Discord server
-
-🙌 Thank You
-Thank you for being a part of the SyNdicate foundation! Together, let's build a future of innovation and collaboration.
-
-
-## Happy coding! ;) [12/31/2023 - 1402/11/10] 3:05 PM IRST (Asia/Tehran)
+Hello Everyone,
+We’re making a change to support our mission’s progress: we’ve renamed our organization and will continue development under a new, completely separate GitHub organization.
+## What This Means:
+- Our current repositories will remain available and continue to work.
+- We have created a new GitHub organization that is fully separate from the current one.
+- We ask that you update your software, integrations, and workflows to point to the new organization to avoid future confusion and to keep receiving updates.
+## Action Required:
+- Update repository URLs, package sources, CI/CD configs, webhooks, and automation to the new organization’s paths.
+- Replace remote origins in local clones.
+- Update any dependency references or container image tags that point to the former organization.
+# Note
+### Please complete migrations by 2 months from now.
