@@ -10,3 +10,4 @@ We’re making a change to support our mission’s progress: we’ve renamed our
 - Update any dependency references or container image tags that point to the former organization.
 # Note
 ### Please complete migrations by 2 months from now.
+# Thanks for understanding.
